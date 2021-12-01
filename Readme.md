@@ -16,7 +16,7 @@ principal objetivo conocer los principales conceptos que ahondan las bases de da
  - [Sesión 2: Agrupaciones y subconsultas](Sesion-02/Readme.md) 
  - [Sesión 3: Joins y Vistas](Sesion-03/Readme.md) 
  - [Sesión 4: Configuración de Bases de Datos Locales](Sesion-04/Readme.md) 
- - [Sesión 5: *Query competition*](Sesion-08/Readme.md)
+ - [Sesión 5: *Query competition*](Sesion-05/Readme.md)
  
 ### Bases de Datos  
 https://drive.google.com/open?id=18kYvknY5n087piu3vrz9mnA-4Exif0gK
